@@ -1,7 +1,7 @@
 <?php
     //截取字符串
     $str = 'hello happy blur';
-    
+    var_dump($str);
 
     //将字符串转为数组  
     // var_dump(str_split($str));
