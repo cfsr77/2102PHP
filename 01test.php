@@ -1,6 +1,6 @@
 <?php
     //截取字符串
-    $str = 'hello happy blur';
+    $str = 'hello happy blfdffur';
     var_dump($str);
 
     //将字符串转为数组  
