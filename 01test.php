@@ -1,4 +1,7 @@
 <?php
+
+    echo time();
+
     //截取字符串
     // $str = 'hello happy blfdffur';
 

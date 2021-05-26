@@ -1,12 +1,14 @@
 <?php
+    // echo time();
+    // echo "<br>";
     //数组
-    // $srr1 = array (
-    //     "name" =>"zhangsan",
-    //     "sex" => "男",
-    //     "age" => "17"
-    // );
-    // echo print_r($arr1);
-
+    $srr1 = array (
+        "name" =>"zhangsan",
+        "sex" => "男",
+        "age" => "17",
+    );
+    print_r($srr1);
+    // echo "111";
 
 
     // $num = [1,2,3,4,5];
@@ -27,5 +29,5 @@
     // );
     
     // echo var_dump($arr2);
-    // echo "\n";
+    // echo "<br>";
     // echo print_r($arr1);
