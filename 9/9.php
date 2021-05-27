@@ -18,6 +18,6 @@ echo '<table>';
         echo '</tr>';
     }
     echo '</table>';
-
+    //9*9 口诀表
     
 
