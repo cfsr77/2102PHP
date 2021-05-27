@@ -19,7 +19,7 @@
     $sji = array_rand($arr,1);
     echo "<pre>"; print_r($sji); echo "<pre>";      //echo 获取他对应的下标索引
     echo $arr[$sji];  
-
+    //随机数
 
 
     // echo "[0]" . $arr[$sji[0]];echo "<br>";
