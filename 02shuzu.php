@@ -8,7 +8,7 @@
         "age" => "17",
     );
     print_r($srr1);
-    // echo "111";
+    echo "111";
 
 
     // $num = [1,2,3,4,5];
@@ -31,3 +31,7 @@
     // echo var_dump($arr2);
     // echo "<br>";
     // echo print_r($arr1);
+
+    // 常用函数
+    // echo rand(0,100);       //生成随机数
+    // echo mt_rand(0,100);

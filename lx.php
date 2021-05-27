@@ -20,17 +20,17 @@
         </ul> -->
         
         <?php
-            // $list = [
-            //     'abcdef',
-            //     'AAAAA',
-            //     'BBBBB',
-            //     'CCCCC',
-            //     'DDDDD',
-            //     'EEEEE'
-            // ];
-            // echo "<pre>";
-            // echo var_dump($list);
-            // echo "</pre>";
+            $list = [
+                'abcdef',
+                'AAAAA',
+                'BBBBB',
+                'CCCCC',
+                'DDDDD',
+                'EEEEE'
+            ];
+            echo "<pre>";
+            print_r($list);
+            echo "</pre>";
             // echo '$k' . $k 
             
         ?>
@@ -61,12 +61,16 @@
                     ["name"=>"赵四","age"=>33,"email"=>"wangwu@qq.com"],
                     ["name"=>"潘长江","age"=>44,"email"=>"zhaoliu@qq.com"],
                 ];
-                
+
                 foreach($list as $k=>$v){
                     echo "<tr>
                             <td>". $v['name'] ."</td>"."<td>" .$v['age']."</td>"."<td>" .$v['email']."</td>"."
                         </tr>";
                 }
+                // $length = count($list);
+                // for($i=0;$i<$length;$i++){
+                //     echo 'i=' .$i , '>>>' . $length[$i] . "\n";
+                // }
             ?>
         </table>
 
