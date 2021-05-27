@@ -1,7 +1,7 @@
 <?php
     //表单验证
 
-    
+
     if(empty($_POST)){
         die("没有提交数据！");
     }
@@ -11,7 +11,7 @@
     foreach($_POST as $k => $v){
         $input = trim($v);   //去掉input值里的空格
         if(empty($input)){
-            die ("内容不能为空！");
+            die ("内容不能为空！");     //die  如果代码从这里接受出现问题 那么代码就不会继续往下执行
         }
         $kong[$k] = $input;
     }
@@ -29,6 +29,12 @@
     if( !preg_match($sjhz,$kong['u_sjh'])){
         die("手机号不匹配");
     };
+
+    //emeil
+    if(!filter_var($kong['u_e'],FILTER_VALIDATE_EMAIL)){
+        die("emeil格式不正确");
+    };
+
 
     //密码
     // $mm = $_POST['u_mm'];
