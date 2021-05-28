@@ -1,4 +1,7 @@
 <?php
+
+    //练习数组常用函数  重要
+
     $arr = ["zhangsan","lisi","Baby","Mike","John","Jack","Zhaoliu"];
     // 判断元素是否存在数组中   单词  in_array
     $bb = "zhangsan";
@@ -21,3 +24,4 @@
     for($i=0;$i<$length;$i++){
         echo 'i=' . $i , '>>>' . $arr1[$i]. '<br>';
     }
+    
