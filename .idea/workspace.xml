@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ba315a4-e814-4d7e-8de2-5bf8c0846393" name="Default Changelist" comment="" />
+    <list default="true" id="6ba315a4-e814-4d7e-8de2-5bf8c0846393" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/5-31/01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-31/01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-31/log.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-31/logng.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-31/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-31/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.29/03test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.29/5-31.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.29/gong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.29/ljshujuku.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.29/login_history.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.29/t.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01test.php" beforeDir="false" afterPath="$PROJECT_DIR$/01test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03for.php" beforeDir="false" afterPath="$PROJECT_DIR$/03for.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.php" beforeDir="false" afterPath="$PROJECT_DIR$/9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_put_contents.php" beforeDir="false" afterPath="$PROJECT_DIR$/file_put_contents.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/num" beforeDir="false" afterPath="$PROJECT_DIR$/num" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuzulx.php" beforeDir="false" afterPath="$PROJECT_DIR$/shuzulx.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +31,42 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1t1P89XUno8ZarDHgUno7LfbKih" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6ba315a4-e814-4d7e-8de2-5bf8c0846393" name="Default Changelist" comment="" />
@@ -33,10 +75,35 @@
       <option name="presentableId" value="Default" />
       <updated>1621933460583</updated>
       <workItem from="1621933461796" duration="749000" />
+      <workItem from="1622443040227" duration="230000" />
+      <workItem from="1622443348087" duration="15000" />
+      <workItem from="1622443372809" duration="200000" />
+      <workItem from="1622443584415" duration="75000" />
+      <workItem from="1622443670586" duration="345000" />
+      <workItem from="1622444055853" duration="13658000" />
+      <workItem from="1622470859684" duration="22922000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="319" key="NewPhpFileDialog" timestamp="1622519511335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="319" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1622519511335" />
+    <state x="40" y="0" key="SettingsEditor" timestamp="1622504208733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="40" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622504208733" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1622461843101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1622461843101" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1622478662279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622478662279" />
   </component>
 </project>

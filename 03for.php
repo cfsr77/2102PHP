@@ -6,9 +6,9 @@
     //     echo '$k=' .$k . '=' . $v . "\n";
     // }
 
-        //sldkfjsdkljfjklsd
+
     //for循环获取数组的长度
     $length = count($arr1);
     for($i=0;$i<$length;$i++){
-        echo 'i=' .$i , '>>>' . $arr1[$i] . "\n";
+        echo 'i=' .$i , '>>>' . $arr1[$i] . "<br>";
     }

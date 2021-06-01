@@ -1,6 +1,13 @@
 <?php
+    //将数组转为字符串 并以自定义  分割符隔开
+    $arr = ['a','b','c','b'];
+    echo implode('-',$arr);
 
-    echo time();
+
+
+    // $num = [1,2,3,4,5];
+    
+    // echo time();
 
     //截取字符串
     // $str = 'hello happy blfdffur';
